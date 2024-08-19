@@ -86,18 +86,19 @@
 
 ###
 
-<img align="right" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2w5Mm9sd3M4dGY4M2Vvc3NoMmtiem1ieDR0ZzhhcHRwb3l5aGt1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Iv5lqKwKsZ2g/giphy.gif"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=INachoMander&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=INachoMander&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/INachoMander/INachoMander/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2w5Mm9sd3M4dGY4M2Vvc3NoMmtiem1ieDR0ZzhhcHRwb3l5aGt1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Iv5lqKwKsZ2g/giphy.gif"  />
+</div>
 
 ###
