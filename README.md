@@ -93,12 +93,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/INachoMander/INachoMander/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2w5Mm9sd3M4dGY4M2Vvc3NoMmtiem1ieDR0ZzhhcHRwb3l5aGt1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Iv5lqKwKsZ2g/giphy.gif"  />
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemx4c2s1NnVxdjlpMzQ1bDJwNnBlbXB1aWEzMThseW4ycjNlODdzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xNWYscCMztZ7dS/giphy.gif"  />
 </div>
 
 ###
